@@ -2,7 +2,6 @@
 
 > **Authors:** Mubashar Saeed, Mingming Lu, Arshad Awan
 > **Journal:** Expert Systems with Applications (Elsevier), 2025
-> **Correspondence:** mingminglu@csu.edu.cn
 
 ---
 
@@ -350,4 +349,4 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## Contact
 
-For questions: **mingminglu@csu.edu.cn**
+For questions: **mubashar.saeed@csu.edu.cn**
