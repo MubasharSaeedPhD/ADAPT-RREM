@@ -1,10 +1,5 @@
 # ADAPT — Runtime Risk-Aware Execution Monitoring for LLM-Based Robotic Task and Motion Planning with Experience-Driven Adaptation
 
-> **Authors:** Mubashar Saeed, Mingming Lu, Arshad Awan
-> **Journal:** Expert Systems with Applications (Elsevier), 2025
-
----
-
 ## Abstract
 
 Large language model (LLM)-based robotic task planning has demonstrated
@@ -324,7 +319,7 @@ ADAPT-RREM/
 > upon journal publication at this repository.
 
 ---
-
+## Complete Code will be released soon
 ## Citation
 
 ```bibtex
